@@ -1,2 +1,3 @@
 # Medical-Diagnosis-Center-by-Service-Portal-ServiceNow-
-Requirement Analysis &amp; Planning focuses on understanding the objectives, user needs, and business processes of the Medical Diagnosis Center Service Portal. This phase identifies patient services, appointment management, diagnostic processes, user roles, and the overall system design and implementation plan in ServiceNow.
+The **Medical Diagnosis Center Service Portal (ServiceNow)** project is designed to manage patient services, appointments, diagnostic requests, and medical records in one digital platform. Patients can submit requests, track appointments, view diagnostic information, and communicate with healthcare staff through the ServiceNow portal. The system improves healthcare services by automating workflows and supporting better coordination between patients, doctors, and staff.
+
